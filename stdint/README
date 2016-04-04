@@ -1,0 +1,3 @@
+This public domain implementation of stdint.h was downloaded from http://snipplr.com/view/18199/stdinth/
+
+"A public domain stdint.h. Original code is from a public domain version in the MinGW distribution. This one has been modified to fix a couple bugs (to make some macros 64-bit aware) and to make it compatible with VC6."
