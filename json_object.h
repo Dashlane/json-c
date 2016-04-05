@@ -23,6 +23,7 @@
 
 #if defined(_MSC_VER)
 #define JSON_EXPORT __declspec(dllexport)
+#define inline __inline
 #else
 #define JSON_EXPORT extern
 #endif
